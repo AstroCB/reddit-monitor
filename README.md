@@ -1,10 +1,12 @@
 # reddit-monitor
-reddit-monitor is a bot that can monitor a list of Reddit accounts and notify you via Facebook Messenger when they post or comment. It's written using [BotCore](https://github.com/AstroCB/BotCore) and [fbchat]([https://](https://github.com/carpedm20/fbchat)).
+reddit-monitor is a bot that can monitor a list of Reddit accounts and notify you via Facebook Messenger when they post or comment. It's written using [BotCore](https://github.com/AstroCB/BotCore) and [fbchat](https://github.com/carpedm20/fbchat).
 
 ## Usage
 To use this bot, clone the repo and install the dependencies:
 
 ```
+git clone https://github.com/AstroCB/reddit-monitor
+cd reddit-monitor
 npm install
 pip -r requirements.txt
 ```

@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# Run script from BotCore examples
+
 if (node login.js) then
     # Can remove stored JS appstate if Python conversion successful
     rm appstate.json
