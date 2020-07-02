@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "messenger-botcore": "^1.1.6"
+  },
+  "repository": {
+    "url": "https://github.com/AstroCB/reddit-monitor"
   }
 }

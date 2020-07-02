@@ -6,10 +6,15 @@ import requests
 import json
 import pickle
 import os
+import sys
 import time
 
 # Local deps
-from config import *
+try:
+    from config import *
+except:
+    print("Couldn't find a config file – make sure it's named config.py and in this directory.")
+    sys.exit()
 
 def login():
     try:
