@@ -18,7 +18,7 @@ You'll also have to set up your BotCore environment variables in order to log in
 To run the bot, use
 
 ```
-./run
+./run.sh
 ```
 
 This will cause the bot to run infinitely, waiting for new posts/comments and alerting the configured Messenger thread as it finds them. I recommend using a process manager or `screen` to background this process.
