@@ -1,0 +1,14 @@
+{
+  "name": "reddit-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./run"
+  },
+  "author": "Cameron Bernhardt (AstroCB)",
+  "license": "MIT",
+  "dependencies": {
+    "messenger-botcore": "^1.1.6"
+  }
+}

@@ -1,0 +1,7 @@
+.vscode/
+node_modules/
+__pycache__/
+config.py
+*.pickle
+session.txt
+appstate.json
