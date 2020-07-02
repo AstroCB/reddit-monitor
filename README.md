@@ -13,6 +13,8 @@ pip install -r requirements.txt
 
 Then, edit [the example config file](config.example.py) and fill in your desired information. Look [here](https://fbchat.readthedocs.io/en/stable/intro.html#threads) for information on finding thread IDs. Once you've done this, change the name of the file to `config.py` so that the bot will recognize it.
 
+You'll also have to set up your BotCore environment variables in order to log in; see [the BotCore docs](https://github.com/AstroCB/BotCore/blob/master/DOCS.md#credentialsobj) for details.
+
 To run the bot, use
 
 ```
