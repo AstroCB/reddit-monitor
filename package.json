@@ -9,7 +9,7 @@
   "author": "Cameron Bernhardt (AstroCB)",
   "license": "MIT",
   "dependencies": {
-    "@astrocb/messenger-botcore": "^2.0.0"
+    "messenger-botcore": "^2.0.0"
   },
   "repository": {
     "type": "git",
